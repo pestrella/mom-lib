@@ -16,6 +16,8 @@ Basic Usage
 
         transmitter.send("my_exchange", "Yo dude!");
 
-3. Hang up when you application shuts down:
+3. Hang up when your application shuts down:
 
         receiver.hangup();
+
+Refer to tests for full example.
